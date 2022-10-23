@@ -1,0 +1,29 @@
+body{
+    font-family: '宋体';
+    size:12px;
+}
+
+h1{
+    color:black;
+    text-align: center;
+    font-family: '汉仪江南楷宋', Courier, monospace;
+    
+    
+}
+
+
+h2{
+    color:coral;
+    text-align: center;
+    font-family: '汉仪昌黎宋刻本原版';
+    
+
+}
+
+h3{
+    color:blue;
+    text-align: left;
+    font-family: '汉仪金陵刻经';
+    
+    
+}
